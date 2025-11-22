@@ -1,5 +1,5 @@
 # Day 02 - 20 Nov 2025
-# Name: Soumya – fixing bugs like a pro
+# Name: scm_de_ai - fixing bugs like a pro
 # Project: Python Pizza Deliveries – 100% correct logic, no duplicate prints
 # Feeling: I debugged like a senior dev today
 
