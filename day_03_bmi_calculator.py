@@ -1,5 +1,5 @@
 # Day 03 - 21 Nov 2025
-# Name: Soumya – first program that makes decisions
+# Name: first program that makes decisions
 # Project: BMI Calculator with WHO categories + type hints
 # Feeling: My code can now THINK
 
